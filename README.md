@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently focusing on 3D Vision, Computer Graphics.
 - 👀 This is my [homepage](https://www.jincenjiang.com). Come in and have a look :)
-- 💬 I have conducted some work in point cloud deep learning, if you have any good ideas, feel free to chat with me.
+- 💬 I have conducted some works in point cloud deep learning, if you have any good ideas, feel free to chat with me.
 - 🤔 I will release my work to the community at the appropriate time.
 
 <!---
