@@ -13,5 +13,5 @@ You can click the Preview link to take a look at your changes.
 
 <div>
     <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=jinec98&theme=calm&show_icons=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinec98&hide=html,css&theme=calm&langs_count=6&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinec98&theme=calm&langs_count=6&layout=compact" />
 </div>
